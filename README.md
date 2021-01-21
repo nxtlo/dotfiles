@@ -1,2 +1,2 @@
-# pws
- useful powershell shortcuts
+### pws
+my dotfiles and all :D
