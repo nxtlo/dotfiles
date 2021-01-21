@@ -2,6 +2,13 @@
 if [ -f /etc/bashrc ]; then
         . /etc/bashrc
 fi
+  git
+  bundler
+  dotenv
+  osx
+  rake
+  rbenv
+  ruby
 
 # User specific environment
 if ! [[ "$PATH" =~ "$HOME/.local/bin:$HOME/bin:" ]]
