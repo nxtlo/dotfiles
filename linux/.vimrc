@@ -3,6 +3,8 @@ filetype off
 set t_Co=256
 
 call plug#begin('~/.vim/plugge')
+Plugin 'honza/vim-snippets'
+Plugin 'SirVer/ultisnips'
 Plug 'Chiel92/vim-autoformat'
 Plug 'ncm2/ncm2'
 Plug 'roxma/nvim-yarp'
@@ -38,6 +40,10 @@ inoremap jk <ESC>
 nmap <C-n> :NERDTreeToggle<CR>
 vmap ++ <plug>NERDCommenterToggle
 nmap ++ <plug>NERDCommenterToggle
+
+let g:UltiSnipsExpandTrigger="<c-j>"
+let g:UltiSnipsJumpForwardTrigger="<c-f>"
+let g:UltiSnipsJumpBackwardTrigger="<c-b>"
 
 command! -nargs=0 Prettier :CocCommand prettier.formatFile
 command! -nargs=0 Format :call CocAction('format')
