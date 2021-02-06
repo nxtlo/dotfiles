@@ -2,8 +2,8 @@
 
 ![Clean](./linux/images/desktop.png "Clean")
 ![Clean](./linux/images/nvim.png "Clean")
-![Clean](./linux/images/menu.jpg "Clean")
-![Clean](./linux/images/pfetch "Clean")
+![Clean](./linux/images/menu.png "Clean")
+![Clean](./linux/images/pfetch.png "Clean")
 
 ### Arch specs
 
