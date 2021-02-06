@@ -1,0 +1,8 @@
+app=/usr/bin/chromium
+last_user=
+screenshot_dir=file:/home/fate/Pictures
+action=1
+delay=2
+region=1
+show_mouse=1
+
