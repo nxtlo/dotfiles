@@ -1,1 +1,10 @@
-{}
+{
+  "rpc.checkIdle": false,
+  "rpc.showProblems": false,
+  "rpc.workspaceElapsedTime": true,
+  "rpc.idleTimeout": 0,
+  "rpc.detailsEditing": "Editing: {workspace_folder}",
+  "rpc.lowerDetailsEditing": "Project: {file_name}",
+  "rpc.buttonEnabled": true,
+  "clangd.path": "/home/fate/.config/coc/extensions/coc-clangd-data/install/12.0.0/clangd_12.0.0/bin/clangd",
+}
