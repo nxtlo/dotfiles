@@ -1,0 +1,7 @@
+{
+	"reportGeneralTypeIssues": false,
+	"typeCheckingMode": "basic",
+	"venvPath": ".",
+	"venv": ".venv",
+	"reportUnboundVariable": false
+}
